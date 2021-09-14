@@ -1,0 +1,15 @@
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.csprojAssemblyReference.cache
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.AssemblyInfoInputs.cache
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.AssemblyInfo.cs
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.csproj.CoreCompileInputs.cache
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\2_Database.deps.json
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\2_Database.runtimeconfig.json
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\2_Database.runtimeconfig.dev.json
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\2_Database.dll
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\2_Database.pdb
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\1_Domain.dll
+D:\Nemanja\nrApp\nr.backend\Database\bin\Debug\netcoreapp3.1\1_Domain.pdb
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.csproj.CopyComplete
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.dll
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.pdb
+D:\Nemanja\nrApp\nr.backend\Database\obj\Debug\netcoreapp3.1\2_Database.genruntimeconfig.cache
